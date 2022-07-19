@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "nodemailer": "^6.7.7"
+  },
+  "scripts": {
+    "start": "node src"
+  }
+}
